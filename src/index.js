@@ -1,3 +1,5 @@
+import 'bootstrap/dist/css/bootstrap.min.css';     // ← ADD THIS
+import "bootstrap/dist/js/bootstrap.bundle.min.js"; // ← ADD THIS
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
